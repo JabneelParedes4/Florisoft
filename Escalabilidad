@@ -1,4 +1,4 @@
-En el diseño de la red de datos para el proyecto FloriSoft, se han incorporado diversas características y estrategias que permiten la escalabilidad de la infraestructura para adaptarse a las necesidades cambiantes de la empresa:
+## En el diseño de la red de datos para el proyecto FloriSoft, se han incorporado diversas características y estrategias que permiten la escalabilidad de la infraestructura para adaptarse a las necesidades cambiantes de la empresa:
 
 1. Topología en estrella:
    - La topología de red implementada es de tipo estrella, con un switch central que interconecta los diferentes segmentos.
